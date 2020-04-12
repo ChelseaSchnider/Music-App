@@ -1,0 +1,39 @@
+.styleHeader {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	width: 500%;
+	height: 98vh;
+	margin: 0.5%;
+	color:white;
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	position: relative;
+}
+
+.styleHeader h2 {
+	border: 3px solid black;
+	background-color: black;
+}
+
+.styleInput {
+	font-size: 30px;
+	width: 35%;
+	outline: none;
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+	border: 3px solid black;
+}
+
+.styleButton {
+	display: flex;
+	justify-content: center;
+}
+
+.buttonPosition {
+	margin-left: 10px;
+}
