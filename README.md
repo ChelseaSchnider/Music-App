@@ -14,4 +14,6 @@ Open terminal, make sure you are in the project folder by using the "cd" command
 Type npm install so the node-modules can be installed for the Express server, which is running on localhost:5000. 
 Make sure Express server is running before starting React by typing npm start
 
+Procfile was added to upload to Heroku
+
 Live demo https://my-itunes-music-app.herokuapp.com/
